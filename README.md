@@ -36,4 +36,4 @@ The investigation involved correlation of firewall telemetry, Windows authentica
 
 **Key areas:** RDP, Event ID 4624, Logon Type 10, Windows discovery commands, EDR analysis, incident containment.
 
-[View Investigation](./01-RDP-Compromise-and-Host-Discovery-Report/README.md)
+[View Investigation](./01-RDP-Compromise-and-Host-Discovery/README.md)
